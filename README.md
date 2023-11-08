@@ -45,3 +45,20 @@ dvc repro
 ```
 dvc dag
 ```
+
+```
+dvc add <filename>
+```
+
+```
+git add <filename> && git commit -m "message"
+```
+
+```
+dvc remote add myremote <any_remote_location>
+```
+
+```
+dvc push
+```
+
